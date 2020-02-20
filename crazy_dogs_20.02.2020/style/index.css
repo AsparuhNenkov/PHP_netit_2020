@@ -1,0 +1,27 @@
+body {
+    position: relative;
+    background-image: url(../crazyDogs/backgroundMainPage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.error {
+                color : #ff0000;
+                font-size: 20px;
+            }
+            
+fieldset {
+        width: 400px;
+        
+            }
+            
+.main {
+                margin: 15px;
+            }
+            
+            h2, legend, h4, label{
+               color: yellow;
+            }
+           
+           
+            

@@ -1,0 +1,76 @@
+body {
+    background-image: url(../crazyDogs/backgroundBuyPage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.submit {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background-color:#83aef2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:10px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.submit:hover {
+	background-color:#476e9e;
+}
+.submit:active {
+	position:relative;
+	top:1px;
+}
+select {
+    background-color: #83aef2;
+    color: beige;
+    width: 150px;
+}
+
+h2 {
+    color: beige;
+}
+
+
+#header {
+   
+  color: beige;
+  font-size: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px #83aef2 solid;
+}
+
+.element {
+    border  : solid #dedede 1px;
+    margin  : 5px;
+}
+/*
+.complex-element {
+    border  : solid #ff0000 1px;
+    margin  : 5px;
+}
+
+.cat-wrapper {
+    background: #dedede;
+    border: solid 1px #ff0000;
+}*/
+
+/*.cat-for-buy {
+    margin: 5px;
+}*/
+
+.cat-banner {
+    width: 200px;
+
+}
+span {
+    color: beige;
+    font-size: 20px;
+}
+
+
